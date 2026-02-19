@@ -1,4 +1,114 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-} 
+[
+  {
+    "item": "home",
+    "schoolname": "Johnson & Wales University",
+    "abbreviation": null,
+    "genericProgramName": null,
+    "secondaryBrandColor": "#F5B325",
+    "primaryBrandColor": "#004680",
+    "buttonColor": "#F5B325",
+    "buttonTextColor": "#004680",
+    "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/jwu.png",
+    "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/jwu.png",
+    "partner_id": "0014T00000cui7IQAQ",
+    "programName": null,
+    "termsandConditionsPolicy": null,
+    "registrationMessage": "Registration is now open.",
+    "credits": null,
+    "startDate": "May 4",
+    "endDate": "August 14"
+  },
+  {
+    "item": "about",
+    "schoolname": "Johnson & Wales University",
+    "genericProgramName": null,
+    "schoolFullAddress": "JWU Global, 247 Pine Street Providence, RI 02903",
+    "abbreviation": null,
+    "phone": null,
+    "credits": null,
+    "programFee": "+ 1,800",
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": null,
+    "abbreviation": null,
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "Johnson & Wales University",
+    "trackTitle": "Digital Marketing Track",
+    "credits": null,
+    "abbreviation": null,
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "ASCI 4799",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 4",
+    "endDate": "August 14"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "Johnson & Wales University",
+    "trackTitle": "Coding for Web Track",
+    "credits": null,
+    "abbreviation": null,
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "ASCI 4799",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 4",
+    "endDate": "August 14"
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "Johnson & Wales University",
+    "trackTitle": "Data Analytics Track",
+    "credits": null,
+    "abbreviation": null,
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "ASCI 4799",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 4",
+    "endDate": "August 14"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "Johnson & Wales University",
+    "trackTitle": "Coding for Data Track",
+    "credits": null,
+    "abbreviation": null,
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "ASCI 4799",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 4",
+    "endDate": "August 14"
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "Johnson & Wales University",
+    "trackTitle": "Career Rotation Track",
+    "credits": null,
+    "abbreviation": null,
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "ASCI 4799",
+    "seasonYear": "Summer 2026",
+    "startDate": "May 4",
+    "endDate": "August 14"
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": null,
+    "registrationMessage": "Registration is now open.",
+    "phone": null,
+    "abbreviation": null
+  },
+  {
+    "item": "begin",
+    "credits": null,
+    "abbreviation": null,
+    "phone": null
+  }
+]
